@@ -18,4 +18,4 @@ document.getElementById('title-header').onclick = klikHeader; //wywoÅ‚aj funkcjÄ
 var paragraf = document.getElementsByTagName('p')[0];
 
 //paragraf.addEventListener('click', klikHeader);
-document.getElementsByTagName('p')[0].addEventListener('click', klikHeader)
+document.getElementsByTagName('p')[0].addEventListener('click', klikHeader);
