@@ -12,3 +12,5 @@ newElement.appendChild(newElementContent); //dodaj tekst do elementu
 
 console.log(newElement);
 istniejacyWezel.appendChild(newElement);
+
+istniejacyWezel.removeChild(newElement);
